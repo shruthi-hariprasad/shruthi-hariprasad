@@ -10,7 +10,7 @@
 
 I'm a CS grad student at UMass Amherst (graduating May 2026) with a love for building things that sit at the intersection of AI and real software engineering.
 
-I think the best way to learn is to build something you'd genuinely use yourself.
+I think the best way to learn is to build something you'd genuinely use yourself!
 
 ---
 
